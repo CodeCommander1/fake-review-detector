@@ -121,3 +121,4 @@ streamlit run app/streamlit_app.py
 - Replace TF-IDF with contextual embeddings (BERT/SentenceTransformer).  
 - Deploy via Streamlit Cloud or Hugging Face Spaces.  
 - Add explainability (SHAP/LIME) for feature-level insights.
+  ## URL-https://detect-fake-review-nishant.streamlit.app/
